@@ -3,5 +3,5 @@
 * chickpeas
 * garlic
 * tahini
-* salt
+* salt & pepper
 * olive oil
